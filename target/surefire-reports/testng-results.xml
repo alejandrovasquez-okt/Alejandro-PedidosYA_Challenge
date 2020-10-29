@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-29T16:05:35 PET" name="PedidosYaTestSuites" finished-at="2020-10-29T16:08:02 PET" duration-ms="146685">
+    <groups>
+    </groups>
+    <test started-at="2020-10-29T16:05:35 PET" name="PedidosYaTest1" finished-at="2020-10-29T16:08:02 PET" duration-ms="146685">
+      <class name="PedidosYaTests">
+        <test-method signature="pedidosYAFirstTest()[pri:1, instance:PedidosYaTests@47dbb1e2]" started-at="2020-10-29T16:05:35 PET" name="pedidosYAFirstTest" finished-at="2020-10-29T16:08:02 PET" duration-ms="146660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pedidosYAFirstTest -->
+      </class> <!-- PedidosYaTests -->
+    </test> <!-- PedidosYaTest1 -->
+  </suite> <!-- PedidosYaTestSuites -->
+</testng-results>
